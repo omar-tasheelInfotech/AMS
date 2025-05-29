@@ -1,1 +1,2 @@
 foo added new file 
+main edited foo1.
