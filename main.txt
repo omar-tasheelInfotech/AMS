@@ -4,3 +4,5 @@ This line is added by main.
 "This is main file added by main branch" 
 This line is added by features/foo.
 Added by main aaa.
+User a added some text.
+
